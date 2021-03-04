@@ -68,7 +68,7 @@ dependencies {
     implementation "com.intuit.ssp:ssp-android:1.0.6"
 
     /** Kotlin coroutines dependencies for Async operation **/
-    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3-native-mt"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1"
     implementation 'com.google.android.gms:play-services-auth:19.0.0'
 
